@@ -1,44 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Mofan</title>
-  <icon>https://mofan212.github.io/icon.png</icon>
-  <subtitle>默烦</subtitle>
-  <link href="https://mofan212.github.io/atom.xml" rel="self"/>
+  <title>BY jintian</title>
+  <icon>https://BYjintian.github.io/icon.png</icon>
+  <subtitle>By jintian</subtitle>
+  <link href="https://BYjintian.github.io/atom.xml" rel="self"/>
   
-  <link href="https://mofan212.github.io/"/>
+  <link href="https://BYjintian.github.io/"/>
   <updated>2023-05-13T16:00:00.000Z</updated>
-  <id>https://mofan212.github.io/</id>
+  <id>https://BYjintian.github.io/</id>
   
   <author>
-    <name>默烦</name>
-    <email>cy.mofan@foxmail.com</email>
+    <name>By jintian</name>
+    <email>Forgetmenot314@163.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>【MySQL 高级篇五】存储引擎</title>
-    <link href="https://mofan212.github.io/posts/MySQL-Advanced-Fifth-Storage-Engines/"/>
-    <id>https://mofan212.github.io/posts/MySQL-Advanced-Fifth-Storage-Engines/</id>
+    <title>博客搭建与维护</title>
+    <link href="https://BYjintian.github.io/posts/Something-About-Blog/"/>
+    <id>https://BYjintian.github.io/posts/Something-About-Blog/</id>
     <published>2023-05-13T16:00:00.000Z</published>
     <updated>2023-05-13T16:00:00.000Z</updated>
     
     
-    <summary type="html">本文介绍了 MySQL 中的多种存储引擎的特性与适用场景。</summary>
+    <summary type="html">维护博客时，总会遇到各种问题，有些问题难以找到解决方案，不如将它们记录下来，方便他人参考。</summary>
     
     
     
-    <category term="MySQL" scheme="https://mofan212.github.io/categories/MySQL/"/>
+    <category term="MySQL" scheme="https://BYjintian.github.io/categories/"/>
     
     
-    <category term="MySQL" scheme="https://mofan212.github.io/tags/MySQL/"/>
     
   </entry>
   
   <entry>
     <title>【MySQL 高级篇四】逻辑架构</title>
-    <link href="https://mofan212.github.io/posts/MySQL-Advanced-Fourth-Logical-Architecture/"/>
-    <id>https://mofan212.github.io/posts/MySQL-Advanced-Fourth-Logical-Architecture/</id>
+    <link href="https://BYjintian.github.io/posts/MySQL-Advanced-Fourth-Logical-Architecture/"/>
+    <id>https://BYjintian.github.io/posts/MySQL-Advanced-Fourth-Logical-Architecture/</id>
     <published>2023-05-12T16:00:00.000Z</published>
     <updated>2023-05-12T16:00:00.000Z</updated>
     
@@ -47,17 +46,17 @@
     
     
     
-    <category term="MySQL" scheme="https://mofan212.github.io/categories/MySQL/"/>
+    <category term="MySQL" scheme="https://BYjintian.github.io/categories/MySQL/"/>
     
     
-    <category term="MySQL" scheme="https://mofan212.github.io/tags/MySQL/"/>
+    <category term="MySQL" scheme="https://BYjintian.github.io/tags/MySQL/"/>
     
   </entry>
   
   <entry>
     <title>Spring 对 Java 注解的增强</title>
-    <link href="https://mofan212.github.io/posts/Spring&#39;s-Enhancements-To-Java-Annotation/"/>
-    <id>https://mofan212.github.io/posts/Spring&#39;s-Enhancements-To-Java-Annotation/</id>
+    <link href="https://BYjintian.github.io/posts/Spring&#39;s-Enhancements-To-Java-Annotation/"/>
+    <id>https://BYjintian.github.io/posts/Spring&#39;s-Enhancements-To-Java-Annotation/</id>
     <published>2023-04-14T16:00:00.000Z</published>
     <updated>2023-04-14T16:00:00.000Z</updated>
     
@@ -66,23 +65,23 @@
     
     
     
-    <category term="Java" scheme="https://mofan212.github.io/categories/Java/"/>
+    <category term="Java" scheme="https://BYjintian.github.io/categories/Java/"/>
     
-    <category term="Spring" scheme="https://mofan212.github.io/categories/Java/Spring/"/>
+    <category term="Spring" scheme="https://BYjintian.github.io/categories/Java/Spring/"/>
     
     
-    <category term="Java" scheme="https://mofan212.github.io/tags/Java/"/>
+    <category term="Java" scheme="https://BYjintian.github.io/tags/Java/"/>
     
-    <category term="Spring" scheme="https://mofan212.github.io/tags/Spring/"/>
+    <category term="Spring" scheme="https://BYjintian.github.io/tags/Spring/"/>
     
-    <category term="Annotation" scheme="https://mofan212.github.io/tags/Annotation/"/>
+    <category term="Annotation" scheme="https://BYjintian.github.io/tags/Annotation/"/>
     
   </entry>
   
   <entry>
     <title>【MySQL 高级篇三】用户与权限管理</title>
-    <link href="https://mofan212.github.io/posts/MySQL-Advanced-Third-User-And-Permission-Management/"/>
-    <id>https://mofan212.github.io/posts/MySQL-Advanced-Third-User-And-Permission-Management/</id>
+    <link href="https://BYjintian.github.io/posts/MySQL-Advanced-Third-User-And-Permission-Management/"/>
+    <id>https://BYjintian.github.io/posts/MySQL-Advanced-Third-User-And-Permission-Management/</id>
     <published>2023-03-26T16:00:00.000Z</published>
     <updated>2023-03-26T16:00:00.000Z</updated>
     
@@ -91,17 +90,17 @@
     
     
     
-    <category term="MySQL" scheme="https://mofan212.github.io/categories/MySQL/"/>
+    <category term="MySQL" scheme="https://BYjintian.github.io/categories/MySQL/"/>
     
     
-    <category term="MySQL" scheme="https://mofan212.github.io/tags/MySQL/"/>
+    <category term="MySQL" scheme="https://BYjintian.github.io/tags/MySQL/"/>
     
   </entry>
   
   <entry>
     <title>从回调到 LambdaSafe</title>
-    <link href="https://mofan212.github.io/posts/From-Callback-To-LambdaSafe/"/>
-    <id>https://mofan212.github.io/posts/From-Callback-To-LambdaSafe/</id>
+    <link href="https://BYjintian.github.io/posts/From-Callback-To-LambdaSafe/"/>
+    <id>https://BYjintian.github.io/posts/From-Callback-To-LambdaSafe/</id>
     <published>2023-03-11T16:00:00.000Z</published>
     <updated>2023-03-11T16:00:00.000Z</updated>
     
@@ -110,19 +109,19 @@
     
     
     
-    <category term="SpringBoot" scheme="https://mofan212.github.io/categories/SpringBoot/"/>
+    <category term="SpringBoot" scheme="https://BYjintian.github.io/categories/SpringBoot/"/>
     
     
-    <category term="Java" scheme="https://mofan212.github.io/tags/Java/"/>
+    <category term="Java" scheme="https://BYjintian.github.io/tags/Java/"/>
     
-    <category term="SpringBoot" scheme="https://mofan212.github.io/tags/SpringBoot/"/>
+    <category term="SpringBoot" scheme="https://BYjintian.github.io/tags/SpringBoot/"/>
     
   </entry>
   
   <entry>
     <title>JSONPath 快速入门</title>
-    <link href="https://mofan212.github.io/posts/Quick-Start-To-JSONPath/"/>
-    <id>https://mofan212.github.io/posts/Quick-Start-To-JSONPath/</id>
+    <link href="https://BYjintian.github.io/posts/Quick-Start-To-JSONPath/"/>
+    <id>https://BYjintian.github.io/posts/Quick-Start-To-JSONPath/</id>
     <published>2023-03-09T16:00:00.000Z</published>
     <updated>2023-05-22T16:00:00.000Z</updated>
     
@@ -131,19 +130,19 @@
     
     
     
-    <category term="Java" scheme="https://mofan212.github.io/categories/Java/"/>
+    <category term="Java" scheme="https://BYjintian.github.io/categories/Java/"/>
     
     
-    <category term="JSONPath" scheme="https://mofan212.github.io/tags/JSONPath/"/>
+    <category term="JSONPath" scheme="https://BYjintian.github.io/tags/JSONPath/"/>
     
-    <category term="JSON" scheme="https://mofan212.github.io/tags/JSON/"/>
+    <category term="JSON" scheme="https://BYjintian.github.io/tags/JSON/"/>
     
   </entry>
   
   <entry>
     <title>【MySQL 高级篇二】MySQL 的数据目录</title>
-    <link href="https://mofan212.github.io/posts/MySQL-Advanced-Second-Data-Directory-Of-MySQL/"/>
-    <id>https://mofan212.github.io/posts/MySQL-Advanced-Second-Data-Directory-Of-MySQL/</id>
+    <link href="https://BYjintian.github.io/posts/MySQL-Advanced-Second-Data-Directory-Of-MySQL/"/>
+    <id>https://BYjintian.github.io/posts/MySQL-Advanced-Second-Data-Directory-Of-MySQL/</id>
     <published>2023-03-04T16:00:00.000Z</published>
     <updated>2023-03-04T16:00:00.000Z</updated>
     
@@ -152,17 +151,17 @@
     
     
     
-    <category term="MySQL" scheme="https://mofan212.github.io/categories/MySQL/"/>
+    <category term="MySQL" scheme="https://BYjintian.github.io/categories/MySQL/"/>
     
     
-    <category term="MySQL" scheme="https://mofan212.github.io/tags/MySQL/"/>
+    <category term="MySQL" scheme="https://BYjintian.github.io/tags/MySQL/"/>
     
   </entry>
   
   <entry>
     <title>【MySQL 高级篇一】Linux 下 MySQL 的使用</title>
-    <link href="https://mofan212.github.io/posts/MySQL-Advanced-First-Use-Of-MySQL-Under-Linux/"/>
-    <id>https://mofan212.github.io/posts/MySQL-Advanced-First-Use-Of-MySQL-Under-Linux/</id>
+    <link href="https://BYjintian.github.io/posts/MySQL-Advanced-First-Use-Of-MySQL-Under-Linux/"/>
+    <id>https://BYjintian.github.io/posts/MySQL-Advanced-First-Use-Of-MySQL-Under-Linux/</id>
     <published>2023-02-25T16:00:00.000Z</published>
     <updated>2023-02-25T16:00:00.000Z</updated>
     
@@ -171,17 +170,17 @@
     
     
     
-    <category term="MySQL" scheme="https://mofan212.github.io/categories/MySQL/"/>
+    <category term="MySQL" scheme="https://BYjintian.github.io/categories/MySQL/"/>
     
     
-    <category term="MySQL" scheme="https://mofan212.github.io/tags/MySQL/"/>
+    <category term="MySQL" scheme="https://BYjintian.github.io/tags/MySQL/"/>
     
   </entry>
   
   <entry>
     <title>Arthas 快速入门</title>
-    <link href="https://mofan212.github.io/posts/Quick-Start-To-Arthas/"/>
-    <id>https://mofan212.github.io/posts/Quick-Start-To-Arthas/</id>
+    <link href="https://BYjintian.github.io/posts/Quick-Start-To-Arthas/"/>
+    <id>https://BYjintian.github.io/posts/Quick-Start-To-Arthas/</id>
     <published>2023-02-20T16:00:00.000Z</published>
     <updated>2023-02-20T16:00:00.000Z</updated>
     
@@ -190,17 +189,17 @@
     
     
     
-    <category term="Tools" scheme="https://mofan212.github.io/categories/Tools/"/>
+    <category term="Tools" scheme="https://BYjintian.github.io/categories/Tools/"/>
     
     
-    <category term="Arthas" scheme="https://mofan212.github.io/tags/Arthas/"/>
+    <category term="Arthas" scheme="https://BYjintian.github.io/tags/Arthas/"/>
     
   </entry>
   
   <entry>
     <title>【Spring 四十九讲】杂项</title>
-    <link href="https://mofan212.github.io/posts/Spring-Forty-Nine-Lectures-Sundry/"/>
-    <id>https://mofan212.github.io/posts/Spring-Forty-Nine-Lectures-Sundry/</id>
+    <link href="https://BYjintian.github.io/posts/Spring-Forty-Nine-Lectures-Sundry/"/>
+    <id>https://BYjintian.github.io/posts/Spring-Forty-Nine-Lectures-Sundry/</id>
     <published>2023-02-02T16:00:00.000Z</published>
     <updated>2023-03-27T16:00:00.000Z</updated>
     
@@ -209,21 +208,21 @@
     
     
     
-    <category term="Java" scheme="https://mofan212.github.io/categories/Java/"/>
+    <category term="Java" scheme="https://BYjintian.github.io/categories/Java/"/>
     
-    <category term="Spring" scheme="https://mofan212.github.io/categories/Java/Spring/"/>
+    <category term="Spring" scheme="https://BYjintian.github.io/categories/Java/Spring/"/>
     
     
-    <category term="Java" scheme="https://mofan212.github.io/tags/Java/"/>
+    <category term="Java" scheme="https://BYjintian.github.io/tags/Java/"/>
     
-    <category term="Spring" scheme="https://mofan212.github.io/tags/Spring/"/>
+    <category term="Spring" scheme="https://BYjintian.github.io/tags/Spring/"/>
     
   </entry>
   
   <entry>
     <title>【Spring 四十九讲】SpringBoot</title>
-    <link href="https://mofan212.github.io/posts/Spring-Forty-Nine-Lectures-Spring-Boot/"/>
-    <id>https://mofan212.github.io/posts/Spring-Forty-Nine-Lectures-Spring-Boot/</id>
+    <link href="https://BYjintian.github.io/posts/Spring-Forty-Nine-Lectures-Spring-Boot/"/>
+    <id>https://BYjintian.github.io/posts/Spring-Forty-Nine-Lectures-Spring-Boot/</id>
     <published>2023-01-28T16:00:00.000Z</published>
     <updated>2023-01-28T16:00:00.000Z</updated>
     
@@ -232,21 +231,21 @@
     
     
     
-    <category term="Java" scheme="https://mofan212.github.io/categories/Java/"/>
+    <category term="Java" scheme="https://BYjintian.github.io/categories/Java/"/>
     
-    <category term="Spring" scheme="https://mofan212.github.io/categories/Java/Spring/"/>
+    <category term="Spring" scheme="https://BYjintian.github.io/categories/Java/Spring/"/>
     
     
-    <category term="Java" scheme="https://mofan212.github.io/tags/Java/"/>
+    <category term="Java" scheme="https://BYjintian.github.io/tags/Java/"/>
     
-    <category term="Spring" scheme="https://mofan212.github.io/tags/Spring/"/>
+    <category term="Spring" scheme="https://BYjintian.github.io/tags/Spring/"/>
     
   </entry>
   
   <entry>
     <title>【Spring 四十九讲】WebMVC</title>
-    <link href="https://mofan212.github.io/posts/Spring-Forty-Nine-Lectures-MVC/"/>
-    <id>https://mofan212.github.io/posts/Spring-Forty-Nine-Lectures-MVC/</id>
+    <link href="https://BYjintian.github.io/posts/Spring-Forty-Nine-Lectures-MVC/"/>
+    <id>https://BYjintian.github.io/posts/Spring-Forty-Nine-Lectures-MVC/</id>
     <published>2023-01-26T16:00:00.000Z</published>
     <updated>2023-01-26T16:00:00.000Z</updated>
     
@@ -255,21 +254,21 @@
     
     
     
-    <category term="Java" scheme="https://mofan212.github.io/categories/Java/"/>
+    <category term="Java" scheme="https://BYjintian.github.io/categories/Java/"/>
     
-    <category term="Spring" scheme="https://mofan212.github.io/categories/Java/Spring/"/>
+    <category term="Spring" scheme="https://BYjintian.github.io/categories/Java/Spring/"/>
     
     
-    <category term="Java" scheme="https://mofan212.github.io/tags/Java/"/>
+    <category term="Java" scheme="https://BYjintian.github.io/tags/Java/"/>
     
-    <category term="Spring" scheme="https://mofan212.github.io/tags/Spring/"/>
+    <category term="Spring" scheme="https://BYjintian.github.io/tags/Spring/"/>
     
   </entry>
   
   <entry>
     <title>【Spring 四十九讲】AOP</title>
-    <link href="https://mofan212.github.io/posts/Spring-Forty-Nine-Lectures-AOP/"/>
-    <id>https://mofan212.github.io/posts/Spring-Forty-Nine-Lectures-AOP/</id>
+    <link href="https://BYjintian.github.io/posts/Spring-Forty-Nine-Lectures-AOP/"/>
+    <id>https://BYjintian.github.io/posts/Spring-Forty-Nine-Lectures-AOP/</id>
     <published>2023-01-20T16:00:00.000Z</published>
     <updated>2023-01-20T16:00:00.000Z</updated>
     
@@ -278,21 +277,21 @@
     
     
     
-    <category term="Java" scheme="https://mofan212.github.io/categories/Java/"/>
+    <category term="Java" scheme="https://BYjintian.github.io/categories/Java/"/>
     
-    <category term="Spring" scheme="https://mofan212.github.io/categories/Java/Spring/"/>
+    <category term="Spring" scheme="https://BYjintian.github.io/categories/Java/Spring/"/>
     
     
-    <category term="Java" scheme="https://mofan212.github.io/tags/Java/"/>
+    <category term="Java" scheme="https://BYjintian.github.io/tags/Java/"/>
     
-    <category term="Spring" scheme="https://mofan212.github.io/tags/Spring/"/>
+    <category term="Spring" scheme="https://BYjintian.github.io/tags/Spring/"/>
     
   </entry>
   
   <entry>
     <title>【Spring 四十九讲】容器与 Bean</title>
-    <link href="https://mofan212.github.io/posts/Spring-Forty-Nine-Lectures-Container-And-Bean/"/>
-    <id>https://mofan212.github.io/posts/Spring-Forty-Nine-Lectures-Container-And-Bean/</id>
+    <link href="https://BYjintian.github.io/posts/Spring-Forty-Nine-Lectures-Container-And-Bean/"/>
+    <id>https://BYjintian.github.io/posts/Spring-Forty-Nine-Lectures-Container-And-Bean/</id>
     <published>2023-01-07T16:00:00.000Z</published>
     <updated>2023-01-07T16:00:00.000Z</updated>
     
@@ -301,21 +300,21 @@
     
     
     
-    <category term="Java" scheme="https://mofan212.github.io/categories/Java/"/>
+    <category term="Java" scheme="https://BYjintian.github.io/categories/Java/"/>
     
-    <category term="Spring" scheme="https://mofan212.github.io/categories/Java/Spring/"/>
+    <category term="Spring" scheme="https://BYjintian.github.io/categories/Java/Spring/"/>
     
     
-    <category term="Java" scheme="https://mofan212.github.io/tags/Java/"/>
+    <category term="Java" scheme="https://BYjintian.github.io/tags/Java/"/>
     
-    <category term="Spring" scheme="https://mofan212.github.io/tags/Spring/"/>
+    <category term="Spring" scheme="https://BYjintian.github.io/tags/Spring/"/>
     
   </entry>
   
   <entry>
     <title>再见 2022，你好 2023</title>
-    <link href="https://mofan212.github.io/posts/Goodbye-2022-Hello-2023/"/>
-    <id>https://mofan212.github.io/posts/Goodbye-2022-Hello-2023/</id>
+    <link href="https://BYjintian.github.io/posts/Goodbye-2022-Hello-2023/"/>
+    <id>https://BYjintian.github.io/posts/Goodbye-2022-Hello-2023/</id>
     <published>2022-12-31T16:00:00.000Z</published>
     <updated>2022-12-31T16:00:00.000Z</updated>
     
@@ -324,17 +323,17 @@
     
     
     
-    <category term="Summary" scheme="https://mofan212.github.io/categories/Summary/"/>
+    <category term="Summary" scheme="https://BYjintian.github.io/categories/Summary/"/>
     
     
-    <category term="Summary" scheme="https://mofan212.github.io/tags/Summary/"/>
+    <category term="Summary" scheme="https://BYjintian.github.io/tags/Summary/"/>
     
   </entry>
   
   <entry>
     <title>【算法】串匹配算法</title>
-    <link href="https://mofan212.github.io/posts/Algorithm-String-Matching/"/>
-    <id>https://mofan212.github.io/posts/Algorithm-String-Matching/</id>
+    <link href="https://BYjintian.github.io/posts/Algorithm-String-Matching/"/>
+    <id>https://BYjintian.github.io/posts/Algorithm-String-Matching/</id>
     <published>2022-12-17T16:00:00.000Z</published>
     <updated>2023-03-16T16:00:00.000Z</updated>
     
@@ -343,17 +342,17 @@
     
     
     
-    <category term="Algorithm" scheme="https://mofan212.github.io/categories/Algorithm/"/>
+    <category term="Algorithm" scheme="https://BYjintian.github.io/categories/Algorithm/"/>
     
     
-    <category term="Algorithm" scheme="https://mofan212.github.io/tags/Algorithm/"/>
+    <category term="Algorithm" scheme="https://BYjintian.github.io/tags/Algorithm/"/>
     
   </entry>
   
   <entry>
     <title>高级数据结构之B+树</title>
-    <link href="https://mofan212.github.io/posts/DataStructure-B+Tree/"/>
-    <id>https://mofan212.github.io/posts/DataStructure-B+Tree/</id>
+    <link href="https://BYjintian.github.io/posts/DataStructure-B+Tree/"/>
+    <id>https://BYjintian.github.io/posts/DataStructure-B+Tree/</id>
     <published>2022-12-10T16:00:00.000Z</published>
     <updated>2022-12-10T16:00:00.000Z</updated>
     
@@ -362,17 +361,17 @@
     
     
     
-    <category term="DataStructure" scheme="https://mofan212.github.io/categories/DataStructure/"/>
+    <category term="DataStructure" scheme="https://BYjintian.github.io/categories/DataStructure/"/>
     
     
-    <category term="DataStructure" scheme="https://mofan212.github.io/tags/DataStructure/"/>
+    <category term="DataStructure" scheme="https://BYjintian.github.io/tags/DataStructure/"/>
     
   </entry>
   
   <entry>
     <title>高级数据结构之跳表</title>
-    <link href="https://mofan212.github.io/posts/DataStructure-SkipList/"/>
-    <id>https://mofan212.github.io/posts/DataStructure-SkipList/</id>
+    <link href="https://BYjintian.github.io/posts/DataStructure-SkipList/"/>
+    <id>https://BYjintian.github.io/posts/DataStructure-SkipList/</id>
     <published>2022-12-05T16:00:00.000Z</published>
     <updated>2022-12-08T16:00:00.000Z</updated>
     
@@ -381,17 +380,17 @@
     
     
     
-    <category term="DataStructure" scheme="https://mofan212.github.io/categories/DataStructure/"/>
+    <category term="DataStructure" scheme="https://BYjintian.github.io/categories/DataStructure/"/>
     
     
-    <category term="DataStructure" scheme="https://mofan212.github.io/tags/DataStructure/"/>
+    <category term="DataStructure" scheme="https://BYjintian.github.io/tags/DataStructure/"/>
     
   </entry>
   
   <entry>
     <title>高级数据结构之布隆过滤器</title>
-    <link href="https://mofan212.github.io/posts/DataStructure-Bloom-Filter/"/>
-    <id>https://mofan212.github.io/posts/DataStructure-Bloom-Filter/</id>
+    <link href="https://BYjintian.github.io/posts/DataStructure-Bloom-Filter/"/>
+    <id>https://BYjintian.github.io/posts/DataStructure-Bloom-Filter/</id>
     <published>2022-12-02T16:00:00.000Z</published>
     <updated>2022-12-02T16:00:00.000Z</updated>
     
@@ -400,29 +399,10 @@
     
     
     
-    <category term="DataStructure" scheme="https://mofan212.github.io/categories/DataStructure/"/>
+    <category term="DataStructure" scheme="https://BYjintian.github.io/categories/DataStructure/"/>
     
     
-    <category term="DataStructure" scheme="https://mofan212.github.io/tags/DataStructure/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【算法】动态规划</title>
-    <link href="https://mofan212.github.io/posts/Algorithm-Dynamic-Programming/"/>
-    <id>https://mofan212.github.io/posts/Algorithm-Dynamic-Programming/</id>
-    <published>2022-11-26T16:00:00.000Z</published>
-    <updated>2022-11-26T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">动态规划，Dynamic Programming，简称 DP，是求解最优化问题的一种常用策略。</summary>
-    
-    
-    
-    <category term="Algorithm" scheme="https://mofan212.github.io/categories/Algorithm/"/>
-    
-    
-    <category term="Algorithm" scheme="https://mofan212.github.io/tags/Algorithm/"/>
+    <category term="DataStructure" scheme="https://BYjintian.github.io/tags/DataStructure/"/>
     
   </entry>
   
